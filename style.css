@@ -33,18 +33,12 @@ body{
 
 
 h1{
-    font-size: 10rem;
+    font-size: 8rem;
     color: palevioletred;
-    
+    padding:10px;
 }
-@media (max-width: 600px) {
-  h1{
-    font-size: 2rem;
-    color: blue;
-    
-}
-}                                        
-        }
+
+
 
 
 
