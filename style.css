@@ -37,12 +37,13 @@ h1{
     color: palevioletred;
     
 }
-@media only screen and (max-width: 600px) {
-               h1{
-    font-size: 6rem;
+@media (min-width: 600px) {
+  h1{
+    font-size: 2rem;
     color: blue;
     
-}                            
-                                           
+}
+}                                        
         }
+
 
